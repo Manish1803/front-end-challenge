@@ -16,3 +16,30 @@ The Store Keeper has access to view, add, and edit products, but is restricted f
 
 ---
 *Note: Any email containing the word "manager" or "store" combined with the password `password123` will successfully authenticate into the respective role.*
+
+---
+
+## 🚀 Running the App Locally
+
+To run this project on your local machine, follow these steps:
+
+1. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+2. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+
+3. **Open the application:**
+   Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## 🌐 Live Demo
+
+This application is deployed and accessible online via Vercel:
+
+🔗 **[View Live Site](#)** *(Insert Vercel URL here)*
