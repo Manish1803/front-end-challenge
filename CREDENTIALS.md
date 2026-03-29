@@ -42,4 +42,4 @@ To run this project on your local machine, follow these steps:
 
 This application is deployed and accessible online via Vercel:
 
-🔗 **[View Live Site](#)** *(Insert Vercel URL here)*
+🔗 **[View Live Site](https://front-end-challenge-ebon.vercel.app/)** 
